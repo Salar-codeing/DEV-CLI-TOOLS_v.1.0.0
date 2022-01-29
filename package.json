@@ -1,0 +1,20 @@
+{
+  "name": "JS_CLI_TOOL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0",
+    "open": "^8.4.0"
+  }
+}
