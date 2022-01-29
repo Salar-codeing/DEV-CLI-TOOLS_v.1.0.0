@@ -1,0 +1,5 @@
+open                 ------->    npm i open
+Chalk animation      ------->    npm i chalk-animation
+inquirer             ------->    npm i inquirer
+chalk                ------->    npm i chalk
+nanospinner          ------->    npm i nanospinner
