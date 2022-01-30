@@ -2,7 +2,6 @@
 import chalkAnimation from "chalk-animation";
 import inquirer from "inquirer";
 import chalk from "chalk";
-import { createSpinner } from "nanospinner";
 import open from 'open'
 
 let users_name;
