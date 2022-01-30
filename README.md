@@ -1,5 +1,5 @@
 # DEV-CLI-TOOLS_v.1.0.0
-CLI tools for developers
+Command line tools for developers
 
 
 ![](logo.png)
@@ -11,3 +11,6 @@ would definitely use.
 There are packages that you will need to
 install and I listed all of them in the 
 requirements file.
+
+if for whatever reason you don't know how to 
+run the app just use ---> node index.js
